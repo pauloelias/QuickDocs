@@ -1,0 +1,36 @@
+# Ignore extensions
+.sass-cache
+*.bak
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*.gem
+*.rbc
+*.scssc
+
+# OS, VCS, or folder specific ignores
+!.gitignore
+.DS_Store
+._*
+.cache
+.project
+.settings
+.tmproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+[Tt]humbs.db
+
+
+#Folders to ignore
+.hg
+.idea
+
+
+# Ignore project-specific config/settings
+# src/public/.htaccess
